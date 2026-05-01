@@ -62,8 +62,9 @@ body {
 /* ================Main Body ========================*/
 
 /* =============Mark and h1========================== */
-.main-container {
+main {
     background-color: #F8F8F8;
+    height: 100vh;
 
 } 
 .main-container__heading {
